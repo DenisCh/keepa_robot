@@ -1,2 +1,2 @@
-# keepa_robot
-Example of keepa robot code
+# Keepa API
+Easy example of keepa robot.
